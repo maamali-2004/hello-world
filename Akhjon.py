@@ -12,3 +12,4 @@ for i in range(3):
     lst.append(day)
 print(akhJoon(lst))
 print("hello")
+print("w3")
