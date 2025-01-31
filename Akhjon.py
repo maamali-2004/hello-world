@@ -11,3 +11,4 @@ for i in range(3):
     day = input().split()
     lst.append(day)
 print(akhJoon(lst))
+print("hello")
