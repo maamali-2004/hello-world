@@ -11,3 +11,7 @@ def haftsang(lst, x):
 lst = list(map(int, input().split()))
 x = int(input())
 print(haftsang(lst, x))
+print("salam")
+print("test 222")
+
+
