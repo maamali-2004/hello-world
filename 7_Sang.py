@@ -13,3 +13,5 @@ x = int(input())
 print(haftsang(lst, x))
 print("salam")
 print("test 222")
+
+
